@@ -79,6 +79,15 @@
 
 答案已整理到我的简书：[答案](https://www.jianshu.com/p/41c66cc79167)
 
+[其他计算机基础题及其答案](https://www.jianshu.com/writer#/notebooks/27322684/notes/42675717)
+
+[安卓第一部分](https://www.jianshu.com/writer#/notebooks/27322684/notes/42677807)
+
+[2020年腾讯面试题及部分答案](https://www.jianshu.com/writer#/notebooks/27322684/notes/42680652)
+
+
+>* ☐ 死锁的四个必要条件
+
 
 ### 基础知识
 

@@ -5,6 +5,7 @@
 > * 面试经验
 > * 错题搜集
 > * 面试可能遇到的问题及答案
+> * 基础知识
 
 
 
@@ -79,6 +80,11 @@
 答案已整理到我的简书：[答案](https://www.jianshu.com/p/41c66cc79167)
 
 
+### 基础知识
+
+[计算机基础---1](https://github.com/frank-lam/fullstack-tutorial)
+
+[计算机基础---2](https://github.com/CyC2018/CS-Notes)
 
 
 ## 关于我

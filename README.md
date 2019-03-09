@@ -77,16 +77,21 @@
 >* ☐ listview图片加载错乱的原理和解决方案
 >* ☐ https相关，如何验证证书的合法性，https中哪里用了对称加密，哪里用了非对称加密，对加密算法（如RSA）等是否有了解
 
-答案已整理到我的简书：[答案](https://www.jianshu.com/p/41c66cc79167)
+答案已整理到我的简书：
 
-[其他计算机基础题及其答案](https://www.jianshu.com/p/2e1ed640cc23)
+[春招笔记一--答案](https://www.jianshu.com/p/41c66cc79167)
 
-[安卓第一部分](https://www.jianshu.com/p/61bafa9a1a44)
+[春招笔记二](https://www.jianshu.com/p/2e1ed640cc23)
 
-[2020年腾讯面试题及部分答案](https://www.jianshu.com/p/6528c2d4b373)
+[春招笔记三--安卓第一部分](https://www.jianshu.com/p/61bafa9a1a44)
+
+[春招笔记四--2019年腾讯面试题及部分答案](https://www.jianshu.com/p/6528c2d4b373)
+
+[春招笔记五--安卓第二部分](https://www.jianshu.com/p/29c05b5d8c30)
+
+[春招笔记六--安卓第三部分](https://www.jianshu.com/p/9a6126b7ba51)
 
 
->* ☐ 死锁的四个必要条件
 
 
 ### 基础知识

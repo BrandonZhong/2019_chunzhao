@@ -117,6 +117,19 @@
 
 [春招笔记六--安卓第三部分](https://www.jianshu.com/p/9a6126b7ba51)
 
+[春招笔记七--剑指offer3-9](https://www.jianshu.com/p/a1a3c45e66d4)
+
+[春招笔记八--腾旭面试一面](https://www.jianshu.com/p/bc058b40d29c)
+
+[春招笔记九--Java](https://www.jianshu.com/p/086dcb5c2624)
+
+[春招笔记十--安卓第四部分](https://www.jianshu.com/p/2cfe37320064)
+
+[春招笔记十一--设计模式](https://www.jianshu.com/p/e2f9d41ece5e)
+
+[春招笔记十二--安卓第五部分](https://www.jianshu.com/p/a3a620a89e42)
+
+[春招笔记十三--安卓第六部分](https://www.jianshu.com/p/6183322e6cdf)
 
 
 
